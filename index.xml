@@ -8,11 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://github.com/mjbascunanv/mjbascunanv.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encargo 0</title>
-      <link>https://github.com/mjbascunanv/mjbascunanv.github.io/docs/encargo-0/</link>
+      <title>Encargo 1</title>
+      <link>https://github.com/mjbascunanv/mjbascunanv.github.io/docs/encargo.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://github.com/mjbascunanv/mjbascunanv.github.io/docs/encargo-0/</guid>
+      <guid>https://github.com/mjbascunanv/mjbascunanv.github.io/docs/encargo.1/</guid>
+      <description>Es un post de dos sillas en base a los referentes del documental Vitra Chair Times</description>
+    </item>
+    
+    <item>
+      <title>Encargo 0</title>
+      <link>https://github.com/mjbascunanv/mjbascunanv.github.io/docs/encargo.0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://github.com/mjbascunanv/mjbascunanv.github.io/docs/encargo.0/</guid>
       <description>En este post publicaré una breve biografia y algunos trabajos representativos personales.</description>
     </item>
     
