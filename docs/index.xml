@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://mjbascunanv.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Entrega 2.0</title>
+      <link>https://mjbascunanv.github.io/docs/entrega-2.0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjbascunanv.github.io/docs/entrega-2.0/</guid>
+      <description> Entrevista a César Páez Henríquez  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
+    <item>
       <title>Encargo 1</title>
       <link>https://mjbascunanv.github.io/docs/encargo.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>

@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Taller de Producto 2021 - María José - Taller Producto 2021</title>
+  <title>Entrega 2.0 - María José - Taller Producto 2021</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://mjbascunanv.github.io/favicon.png">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body class='page page-default-list'>
+<body class='page page-default-single'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -29,7 +29,7 @@
       </a>
     </li>
     
-    <li class="menu-item-dococumentación active">
+    <li class="menu-item-dococumentación">
       <a href="/docs/">
         <span>Dococumentación</span>
       </a>
@@ -56,7 +56,7 @@
       </a>
     </li>
     
-    <li class="menu-item-dococumentación active">
+    <li class="menu-item-dococumentación">
       <a href="/docs/">
         <span>Dococumentación</span>
       </a>
@@ -90,7 +90,7 @@
   <h4>Docs</h4>
   <ul>
     
-    <li class="">
+    <li class="active ">
       <a href="https://mjbascunanv.github.io/docs/entrega-2.0/">Entrega 2.0</a>
     </li>
     
@@ -117,52 +117,29 @@
         </div>
         <div class="col-12 col-md-9">
           
+<h1 class="title">Entrega 2.0</h1>
+<div class="content ">
+  <hr>
+<h2 id="entrevista-a-césar-páez-henríquez">Entrevista a César Páez Henríquez</h2>
 
-<span class="overview">Resumen</span>
-<h1 class="title">Taller de Producto 2021</h1>
-<div class="content">
-  <h2 id="documentación-del-taller-de-producto">Documentación del Taller de Producto</h2>
-<p>Este template será utilizado para generar la documentación de los trabajos realizados en el Taller de Producto 2021.</p>
+<iframe id='pdf-hugo' src='/pdf/Entrevista_referente.pdf'
+frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
+
+<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
+
+<script>
+    function myFunction(id) {
+      document.getElementById(id).classList.add("full-screen");
+    }
+    document.addEventListener('keydown', function(event){
+	if(event.key === "Escape"){
+        document.getElementById('pdf-hugo').classList.remove("full-screen");
+	}
+});
+</script>
 
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mjbascunanv.github.io/docs/entrega-2.0/">Entrega 2.0</a></h2>
-  <p> Entrevista a César Páez Henríquez  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add("full-screen"); } document.addEventListener('keydown', function(event){ if(event.key === "Escape"){ document.getElementById('pdf-hugo').classList.remove("full-screen"); } });  </p>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mjbascunanv.github.io/docs/encargo.1/">Encargo 1</a></h2>
-  <p>Es un post de dos sillas en base a los referentes del documental Vitra Chair Times</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mjbascunanv.github.io/docs/encargo.0/">Encargo 0</a></h2>
-  <p>En este post publicaré una breve biografia y algunos trabajos representativos personales.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mjbascunanv.github.io/docs/ejemplo/">Ejemplo Shortcodes</a></h2>
-  <p>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://mjbascunanv.github.io/docs/markdown/">Ejemplos Markdown</a></h2>
-  <p>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</p>
-</div>
-
-
-
 
         </div>
       </div>
